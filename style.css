@@ -1,0 +1,27 @@
+.container{
+    background-color: #5F2FBB;
+    width: auto;
+    height: 5rem;
+    text-align: center;
+}
+
+a{
+    margin: 2rem;
+    color: white;
+    font-size: 20px;
+}
+
+.input-triangle{
+    display: block;
+
+}
+body{
+    background-color: #202837;
+    text-align: center;
+    color: white;
+}
+
+label,input{
+    padding:0.5rem;
+    
+}
