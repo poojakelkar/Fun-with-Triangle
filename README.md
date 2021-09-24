@@ -19,6 +19,9 @@ Created using Javascript, HTML, CSS
 -   addEventListener: To perform some operation after clicking on button.
 
 ### Snapshot
+![ss1](https://user-images.githubusercontent.com/44290901/134711231-1bee184e-ce2f-411f-bac5-563a7b7bb758.PNG)
+![ss2](https://user-images.githubusercontent.com/44290901/134711261-d4c58392-b924-4e01-9893-34d785aa9157.PNG)
+![ss3](https://user-images.githubusercontent.com/44290901/134711287-bfd98d75-a22a-46be-b704-3dbcced31945.PNG)
 
 
 ### Thanks for going through my project please reach out to me on twitter if you want to give any feedback
